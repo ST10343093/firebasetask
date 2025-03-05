@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311879281922",
+    "project_id": "fir-icetask",
+    "storage_bucket": "fir-icetask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311879281922:android:c923052d09032aa6f8661b",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.firebasetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyT2jQmGaHpP6WAE1L-2XTJWc4CExtgsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
